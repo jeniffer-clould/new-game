@@ -1,0 +1,6 @@
+NEW GAME — Edição profissional
+
+Extraia o ZIP inteiro e abra index.html no Chrome ou Edge.
+Use o mouse, as setas do teclado e Enter para navegar.
+Clique nos vídeos e thumbnails para ampliar. Pressione Esc para fechar.
+Mantenha os arquivos na mesma pasta. As fontes usam Google Fonts e requerem internet; fontes alternativas locais serão usadas offline.
